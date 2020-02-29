@@ -1,0 +1,23 @@
+{
+  "name": "restapiassignment",
+  "version": "1.0.0",
+  "description": "1. Push your code to a GitHub repository. DONE 1. **Send a link to the repository to teachers@codaisseur.com before Saturday 22:00** ## Setup",
+  "main": "messages-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acr1991/API_Homework_Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acr1991/API_Homework_Assignment/issues"
+  },
+  "homepage": "https://github.com/acr1991/API_Homework_Assignment#readme",
+  "dependencies": {
+    "pg": "^7.18.2",
+    "sequelize": "^5.8.6"
+  }
+}
